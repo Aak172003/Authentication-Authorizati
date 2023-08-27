@@ -5,6 +5,7 @@ How can i store data in Db
 1 - Models ke upr create kr denge 
 2 - Object bna kr Db me pss krdenge 
 
+****************************************************************************************** 
 
 Dufference b/w     Hashing 	v/s Encryption
 
@@ -17,8 +18,7 @@ Hashing :
 
 5. ( Imp )  -> The hash code or key can not be reversed to the original information by any means. It can only be mapped and the hash code is checked if the hash code is the same the information is the same otherwise not. The original information can not be retrieved.
 
-
-
+****************************************************************************************** 
 
 Encryption & Decryption :
 
